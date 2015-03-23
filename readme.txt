@@ -2,8 +2,8 @@
 Contributors: tomek00
 Tags: tag, tags, count, counter, widget
 Donate link: http://wp-learning.net/blog/felajanl
-Requires at least: 4.0
-Tested up to: 3.4
+Requires at least: 3.4
+Tested up to: 4.1.1
 Stable tag: trunk
 
 Writes in the slidebar the numbers of tags
